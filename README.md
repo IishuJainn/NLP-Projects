@@ -14,4 +14,8 @@ Welcome to my repository of NLP projects. Here you will find a collection of pro
 
 - [Project 6: Political-Tweets-Sentiments](https://github.com/IishuJainn/Political-Tweets-Sentiments)
 
-- [Project 7: Fake-News-Classifier](https://github.com/IishuJainn/Fake-News-LSTM)
+- [Project 7: Fake-News-Classifier-LSTM](https://github.com/IishuJainn/Fake-News-LSTM)
+
+- [Project 8: Political-Stock-Price-Prediction](https://github.com/IishuJainn/Stock-Price-Prediction)
+
+- [Project 9: Fake-News-Classifier](https://github.com/IishuJainn/Fake-News-Classifier)
